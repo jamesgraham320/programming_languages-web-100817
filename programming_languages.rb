@@ -19,7 +19,6 @@ def reformat_languages(languages)
       end
     }
   }
-  #making a not here
 	rearranged_languages
 end
 
